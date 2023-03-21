@@ -1,0 +1,30 @@
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.exe
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.deps.json
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.runtimeconfig.json
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.dll
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.pdb
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.dll
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\refint\AtividadeAvaliativa.dll
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.pdb
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.genruntimeconfig.cache
+C:\Users\Ana Paula\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net6.0\ref\AtividadeAvaliativa.dll
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.exe
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.deps.json
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.runtimeconfig.json
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.dll
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\bin\Debug\net6.0\AtividadeAvaliativa.pdb
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.dll
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\refint\AtividadeAvaliativa.dll
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.pdb
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\AtividadeAvaliativa.genruntimeconfig.cache
+C:\Users\lucas\Desktop\RDIversity\atividadepraticardi-main\AtividadeAvaliativa\obj\Debug\net6.0\ref\AtividadeAvaliativa.dll
