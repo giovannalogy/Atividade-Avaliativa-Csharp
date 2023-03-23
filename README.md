@@ -39,4 +39,4 @@ Domingo começamos a nos dedicar às 10h, tentando resolver erros e dando contin
   5. Seu grupo teve apoio de outro grupo ? Fique a vontade de citar este grupo e o
 agradecer.
   
-  Não tivemos apoio de outro grupo.
+  Dim, tivemso ajuda da Andréia Ribas e do Philipe 
