@@ -1,4 +1,4 @@
-# Atividade-Avaliativa-Csharp
+# Atividade-Avaliativa-Csharp :books:
 
 <p> 😊 Atividade avaliativa em grupo do curso de C#, para testar listas e POO, feita por: </p>
 
@@ -15,9 +15,12 @@
 
 1. Quais as principais dificuldades que seu grupo enfrentou?
 
-Tivemos dificuldades quanto trabalhar:
-	> com as listas;
-	> com a criação de métodos (devido as variáveis - ofensor: chamamento).
+Tivemos dificuldades quanto trabalhar:  
+
+	> com as listas;  
+	
+	> com a criação de métodos (devido as variáveis - ofensor: chamamento).  
+	
 tivemos pouco conhecimento sobre os assuntos, nos motivando a aprofundar por fora e procurando ajuda de terceiros. 
 
   
@@ -32,11 +35,13 @@ Domingo começamos a nos dedicar às 10h, tentando resolver erros e dando contin
     
    4. Quais os pontos que você teve maior facilidade em estar aplicando nesta atividade?
   
-  A parte mais fácil e que fez mais sentido no projeto:
- 	> Criação de classes (como: métodos inclusos, instânciamento);
+  A parte mais fácil e que fez mais sentido no projeto:  
+  
+ 	> Criação de classes (como: métodos inclusos, instânciamento);  
+	
 	> Construtores.
   
   5. Seu grupo teve apoio de outro grupo ? Fique a vontade de citar este grupo e o
 agradecer.
   
-  Dim, tivemso ajuda da Andréia Ribas e do Philipe 
+  Sim, tivemos ajuda da Andréia Ribas e do Philipe 
